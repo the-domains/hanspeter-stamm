@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hanspeter Stamm]]></title>
-        <description><![CDATA[Hanspeter Stamm]]></description>
+        <title><![CDATA[Hanspeter Stamm Trumpeter]]></title>
+        <description><![CDATA[Hanspeter Stamm Trumpeter]]></description>
         <link>https://thegrid.ai/hanspeter-stamm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 22:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 23:09:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hanspeter-stamm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Trumpet at work</h1><p>This is the page for Hanspeter Stamm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed3f428900742ce919c5d63b59d8b28e1ecde997.jpg"></article>]]></description>
             <link>https://thegrid.ai/hanspeter-stamm/a5832467-a29b-4f30-8b4e-653c6228fef6/index.html</link>
             <guid isPermaLink="false">a5832467-a29b-4f30-8b4e-653c6228fef6</guid>
-            <pubDate>Mon, 25 Jan 2016 22:57:36 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 23:09:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
